@@ -1,5 +1,4 @@
-# ChatBot
-
+# GreenBot
 
 
 ## Repo Structure
